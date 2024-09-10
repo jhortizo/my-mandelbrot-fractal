@@ -1,6 +1,8 @@
-# Plotting the Mandelbrot Fractal
+# Plotting the Mandelbrot Set ✨
 
-![The output](mandelbrot-fractal.png)
+<p align="center">
+    <img src="mandelbrot-set.png" width="25%" />
+</p>
 
 The very first thing I did when learning Python. This goes back to 2017. I found it while tidying some docs and just wanted to keep it here to remind me of the joy of programming 🥹.
 
